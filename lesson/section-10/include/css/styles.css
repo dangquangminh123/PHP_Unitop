@@ -1,0 +1,23 @@
+* {
+    margin: 0px;
+    padding: 0px
+}
+
+#wrapper {
+    width: 960px;
+    margin: 0px auto;
+}
+
+#header,
+#footer {
+    /* height: 150px; */
+    padding: 30px 0px;
+    text-align: center;
+    background: #fdfdfd;
+}
+
+#content {
+    min-height: 600px;
+    padding: 20px 0px;
+    text-align: center;
+}

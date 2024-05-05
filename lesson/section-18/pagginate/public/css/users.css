@@ -1,0 +1,13 @@
+.table_data {
+    width: 100%;
+}
+
+.table_data thead tr td {
+    font-weight: bold;
+    border-bottom: 2px solid #333;
+}
+
+.table_data tr td {
+    border-bottom: 1px solid #333;
+    padding: 8px 15px;
+}
